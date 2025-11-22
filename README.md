@@ -10,4 +10,4 @@ A community node for [n8n](https://n8n.io) that performs HTTP requests and expor
 
 ## 🚀 Installation
 ```bash
-n8n nodes install n8n-traceable-http-node
+Work In Progress
